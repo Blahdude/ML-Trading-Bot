@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environment files and directories
+myenv/
+keys.txt
+
+# Log files and directories
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
